@@ -1,0 +1,252 @@
+M
+<html>
+    <head>
+        <title>Flipkat.com</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .top{
+
+                text-align: center;
+                color:white;
+                background-color:blue;
+
+            }
+            .Mobiles{
+                width: 50px;
+            }
+            .Fashions{
+                width: 50px;
+            }
+            div {
+                width: 50px;
+                height:1px;
+                background-color:white;
+                margin: 4px 0;
+            }
+        </style>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    </head>
+    <body>
+        <h3 class="top">
+           
+
+        <div></div>
+        <div></div>
+        <div></div>
+            <strong><label>Flipkart</strong></label>
+        <input type="search" placeholder="Search for products,brands,more" name="search" required>
+        <button><a href="login1.html" target="_blank">Login</a></button>
+        <select size="1" id="More" name="More">
+
+            <option value="More">More</option>
+            <option value="24/7 Costomer Service">24/7 Costumer Service</option>
+            <option value="Sell on Flipkart">Sell on Flipkart</option>
+            <option value="Adertivse">Adertivse</option>
+            <option value="Notifications">Notifications</option>
+
+        </select>
+
+
+        <button style="font-size:14px">Cart <i class="fa fa-shopping-cart"></i>
+
+    </h3>
+    <br>
+<head>
+<table>
+    <tr>
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\mobile1.jpg"
+                     Mobiles width="50" height="50" Mobiles></p>
+            <p>
+                <select size="1" id="mobiles" name="mobiles">
+                    <option value="Mobiles">Mobiles</option>
+                    <option value="Vivo">Vivo</option>
+                    <option value="Redmi">Redmi</option>
+                    <option value="Samsung">Samsung</option>
+                    <option value="Realme">Realme</option>
+                </select></p>
+
+        </th>
+        <th><p>
+
+                <img src="C:\Users\santosh\Desktop\fashion1.png"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select id="Fashions" name="Fashions">
+                    <option value="Fashion">Fashion</option>
+                    <option value="Mens">Mens Fashion</option>
+                    <option value="Womens">Womens Fashion</option>
+                    <option value="Kids Fashion">Kids Fashion</option>
+                </select></p>
+        </th>
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\Electronics.jpg"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select id="Electronics" name="Electronics">
+                    <option value="Eelctronics">Electronics</option>
+                    <option value="Washing Machines">Washing Machines</option>
+                    <option value="Air Conditoners">Air Conditoners</option>
+                    <option value="Refrigators">Refrigators</option>
+                </select></p>
+        </th>
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\Applicances.png"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select size="1" id="Applicanes" name="Applicanes">
+                    <option value="Airconditoners">Airconditoners</option>
+                    <option value="LG Sigleton">LG Sigleton</option>
+                    <option value="Washing Machines">Washing Machines</option>
+                    <option value="Fans & Aircollers">Fans & Aircollers</option>
+                    <option value="Televiosns">Televiosns</option>
+                </select></p>
+        </th>
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\flight.jpg"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select size="1" id="Flights" name="Flights">
+                    <option value="Flights">Flights</option>
+                    <option value="Oneway">Oneway</option>
+                    <option value="Round trip">Round trip</option>
+
+                </select></p>
+        </th>
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\furniture.jpg"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select size="1" id="Furniture" name="Furniture">
+                    <option value="Furniture">Furniture</option>
+                    <option value="HomeLighting">HomeLighting</option>
+                    <option value="Home Decor">Home Decor</option
+                    <option value="Pet Supplies">Pet Supplies</option>
+
+                </select></p>
+        </th>
+
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\Grocery.png"
+                     Mobiles width="80" height="50"></p>
+            <p>
+                <select size="1" id="Groceries" name="Groceries">
+                    <option value="Groceries">Groceries</option>
+                    <option value="Oil">Oil</option>
+                    <option value="FoodGrains">FoodGrains</option>
+                    <option value="PersonalCare">PersonalCare</option
+                    <option value="HouseholdCare">HouseholdCare</option>
+
+                </select></p>
+        </th> 
+        <th><p>
+                <img src="C:\Users\santosh\Desktop\offer.jpg"
+                     Mobiles width="50" height="50"></p>
+            <p>
+                <select size="1" id="Offerzone" name="Offerzone">
+                    <option value="OffersZone">OffersZone</option>
+                    <option value="MobileOffers">MobileOffers</option>
+                    <option value="TopFashionDeals">TopFashionDeals</option>
+                    <option value="Beauty and more">Beauty and mores</option>
+
+                </select></p>
+        </th>
+    </tr>
+</table>
+</head><br>
+<img src="C:\Users\santosh\Desktop\sbi3.jpg"
+     Mobiles width="1000" height="100"><br><br>
+
+<table border="0" width="100%" bgcolor="white" >
+
+    <td><caption><h2>MobilePhones</h2></caption></td>
+<tr>
+    <th><img src="C:\Users\santosh\Desktop\realme8.jpg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\samsung1.jpeg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img  src="C:\Users\santosh\Desktop\iphone.jpg"
+              Mobiles width="100" height="50" ></img></th>
+    <th><img src="C:\Users\santosh\Desktop\iqoo.jpg"
+             Mobiles width="100" height="50"></img></th>
+
+</tr>
+<tr><br>
+<th>REALME 8 5G</th>
+<th>SAMSUNG S21 ULTRA</th>
+<th>Iphone 12pro max</th>
+<th>Iqoo Neo</th>
+</tr>
+<tr><br>
+<th>From 13,999</th>
+<th>From 93,150</th>
+<th>From 124,700</th>
+<th>From 27,990</th>
+</tr>
+</table>
+<br><br>
+<br>
+<table border="0" width="100% bgcolor=white">
+    <head>
+    <td><caption><h2>Best Laptos</h2></caption></td><br>
+<tr>
+    <th><img src="C:\Users\santosh\Desktop\macos.jpeg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\applelap.jpeg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\asus.jpeg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\hp.jpg"
+             Mobiles width="100" height="50"></img></th>
+</tr>
+<tr>
+    <th>macos</th>
+    <th>apple</th>
+    <th>asus</th>
+    <th>HP laptops</th>
+
+</tr>
+<tr>
+    <th>From 64,999</th>
+    <th>From 93,150</th>
+    <th>From 72,700</th>
+    <th>From 48,700</th>
+</tr>
+</tr>
+</table>
+</head><br><br>
+<table border="0" width="100% bgcolor=white">
+    <head>
+    <td><caption><h2>Topoffers</h2></caption></td><br>
+<tr>
+    <th><img src="C:\Users\santosh\Desktop\tv.jpg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\ac1.jpg"
+             Mobiles width="200" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\cam.jpg"
+             Mobiles width="100" height="50"></img></th>
+    <th><img src="C:\Users\santosh\Desktop\weight.jpg"
+             Mobiles width="100" height="50"></img></th>
+
+</tr>
+<tr>
+    <th>Top 4k Televisons</th>
+    <th>Latest Launches</th>
+    <th>Camers</th>
+    <th>Top weighing scales</th>
+</tr>
+<tr>
+    <th>From 34,999</th>
+    <th>From 49,150</th>
+    <th>From 59,700</th>
+    <th>From 1,700</th>
+</tr>
+</tr>
+</table>
+</head>
+
+</body>
+</html>
+
